@@ -18,7 +18,6 @@ Task: Create a Python program to generate a student mark list with input marks a
 Program Requirements:
 
 - Take user input for:
-    - Student name
     - Marks for each subject
 - Calculate the average marks
 - Assign grades based on the percentage (e.g., A, B, C, D, F)
